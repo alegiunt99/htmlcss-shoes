@@ -12,6 +12,7 @@ right: 20px;
 top: 15px;
 z-index: 3;
 
+
 }
 
 .product-1,
@@ -30,6 +31,7 @@ img{
 
 h1{
     text-align: center;
+    width: 80%;
 }
 
 header a{
@@ -40,6 +42,7 @@ header a{
     font-size: 12px;
     padding: 10px 14px;
     font-weight: 900;
+    margin: 0 10px 0 10px;
 }
 
 #shoes-1,
@@ -52,18 +55,17 @@ header a{
 
 #shoes-1{
     background-color: red;
+    color: yellow;
 }
 
 #shoes-2{
     background-color:green;
+    color: yellow;
 }
 
 #shoes-3{
     background-color: yellow;
+    color: green;
   
 }
 /* / Layout */
-
-/* Debug */
-
-/* / debug */ 
