@@ -6,6 +6,13 @@
 }
 
 /* Layout */
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    overflow: hidden;
+}
 
 
 nav{
